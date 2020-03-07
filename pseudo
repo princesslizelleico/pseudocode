@@ -1,0 +1,7 @@
+Get the Mask, Subnet, Min, and Max of ip:192.168.204.197 /26
+
+1. Convert ip address to binary and get the mask
+2. All binary numbers in ip address and subnet mask calculate it all.
+  (all the 1 are equal to 1 and all that have a 0 are equal to 0 even it is have 1)
+3. Find the host range. compare the mask and ip address into bitwise.
+4. The total of all the number of subnet and hosts per subnet are need to calculate.
